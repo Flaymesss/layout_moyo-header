@@ -40,7 +40,9 @@ body {
   height: 60px;
   font-size: 12px;
   text-decoration: none;
-  display: block;
+  display: flex;
+  align-items: center;
+  justify-content: center;
   position: relative;
 }
 
